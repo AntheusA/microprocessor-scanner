@@ -9,3 +9,6 @@ The ToF sensor has been mounted on top of a stepper motor which rotates in 360°
 The system is moved in between each scan and the vertical slices can be put together to make a graphical view of the area.
 
 Check out the report document to see a more detailed explanation of how the system works and what it can create!
+
+![image](https://github.com/AntheusA/microprocessor-scanner/assets/83626108/35c58ceb-91bc-496f-b3e3-c1c237c1a577)_
+*scan of a hallway*
