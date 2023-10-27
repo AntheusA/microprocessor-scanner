@@ -10,5 +10,6 @@ The system is moved in between each scan and the vertical slices can be put toge
 
 Check out the report document to see a more detailed explanation of how the system works and what it can create!
 
-![image](https://github.com/AntheusA/microprocessor-scanner/assets/83626108/35c58ceb-91bc-496f-b3e3-c1c237c1a577)_
+<img width="238" alt="Scan Image" src="https://github.com/AntheusA/microprocessor-scanner/assets/83626108/dbf473ad-7a89-40dc-a506-01bb90102d59">
+
 *scan of a hallway*
